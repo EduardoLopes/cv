@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Eduardo Lopes -- Developer --
 
 # THANKS
 
-    <name>
+
 
 # TECHNOLOGY COLOPHON
 
