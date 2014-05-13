@@ -4,4 +4,4 @@ cv
 My Curriculum Vitae
 
 
-©2013 Eduardo Lopes. All rights reserved.
+©2014 Eduardo Lopes. All rights reserved.
